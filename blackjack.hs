@@ -1,8 +1,6 @@
 {--
-Vitalii Stadnyk and Niraj Parajuli
-Assignment 7
-Functional Programming
-BlackJack Project (Project Assignment 7.6) 
+Vitalii Stadnyk 
+BlackJack Project 
 --}
 
 import System.Random
